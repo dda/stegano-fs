@@ -1,0 +1,2 @@
+This Real Studio class behaves like a minimal file system, the storage medium being a Picture object. The sample application takes the Macau.png picture, inserts into it three strings and two picture. It then saves the stegged picture as stored.png. Then it re-creates a SteganoFS object and extracts the steganographied elements, and displays them
+inside a picture.
